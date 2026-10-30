@@ -1,0 +1,6 @@
+{
+  "name": "RouteMate - Offline-First Human-Assisted Navigation",
+  "description": "RouteMate connects travellers with verified local guides, remote route experts, persistent route memories, and offline-first navigation when the map doesn't know the way.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
